@@ -1,1 +1,1 @@
-# JogoDaVelha---JavaScript
+# JogoDaVelha-JavaScript
